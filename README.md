@@ -33,10 +33,11 @@ Welcome to my Daily Programming Practice repository! This repository is dedicate
    Improve Problem-Solving Skills: By tackling problems of varying difficulty levels.
    Enhance Language Proficiency: Through regular practice in TypeScript, JavaScript, SQL, and more.
    Build Consistency: By committing and pushing code daily.
-**Resources**
+   
+# Resources
    LeetCode: [LeetCode Link](https://leetcode.com/)
    GeeksforGeeks: [GeeksforGeeks Link](https://www.geeksforgeeks.org/)
    Other Platforms: https://stackoverflow.com/
 
-**Contact**
+#Contact
    If you have any questions or suggestions, feel free to reach out to me at [dnp1982002@gmail.com].
