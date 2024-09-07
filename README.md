@@ -16,18 +16,18 @@ Welcome to my Daily Programming Practice repository! This repository is dedicate
    git clone https://github.com/username/repository.git
    cd repository
 2. **Create a New Folder** for your daily practice or a specific language if it doesn’t already exist:
-    ```sh
-  mkdir typescript # or javascript, sql, etc.
+   ```sh
+   mkdir typescript # or javascript, sql, etc.
 
-3. **Stage and Commit Your Changes:**
-
-  git add .
-  git commit -m "Add new TypeScript exercise for [date]"
+4. **Stage and Commit Your Changes:**
+   ```sh
+   git add .
+   git commit -m "Add new TypeScript exercise for [date]"
   
 4. **Push to Remote:**
-
-  git push origin main
-  Daily Updates
+   ```sh
+   git push origin main
+   Daily Updates
   
 **Goals**
   Improve Problem-Solving Skills: By tackling problems of varying difficulty levels.
