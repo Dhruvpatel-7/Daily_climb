@@ -16,7 +16,7 @@ Welcome to my Daily Programming Practice repository! This repository is dedicate
    git clone https://github.com/username/repository.git
    cd repository
 2. **Create a New Folder** for your daily practice or a specific language if it doesn’t already exist:
-
+    ```sh
   mkdir typescript # or javascript, sql, etc.
 
 3. **Stage and Commit Your Changes:**
