@@ -27,16 +27,16 @@ Welcome to my Daily Programming Practice repository! This repository is dedicate
 4. **Push to Remote:**
    ```sh
    git push origin main
-   Daily Updates
+   #Daily Updates
   
 **Goals**
-  Improve Problem-Solving Skills: By tackling problems of varying difficulty levels.
-  Enhance Language Proficiency: Through regular practice in TypeScript, JavaScript, SQL, and more.
-  Build Consistency: By committing and pushing code daily.
+  ##Improve Problem-Solving Skills: By tackling problems of varying difficulty levels.
+  ##Enhance Language Proficiency: Through regular practice in TypeScript, JavaScript, SQL, and more.
+  ##Build Consistency: By committing and pushing code daily.
 **Resources**
-  LeetCode: [LeetCode Link](https://leetcode.com/)
-  GeeksforGeeks: [GeeksforGeeks Link](https://www.geeksforgeeks.org/)
-  Other Platforms: https://stackoverflow.com/
+  ##LeetCode: [LeetCode Link](https://leetcode.com/)
+  ##GeeksforGeeks: [GeeksforGeeks Link](https://www.geeksforgeeks.org/)
+  ##Other Platforms: https://stackoverflow.com/
 
 **Contact**
-  If you have any questions or suggestions, feel free to reach out to me at [dnp1982002@gmail.com].
+  ##If you have any questions or suggestions, feel free to reach out to me at [dnp1982002@gmail.com].
