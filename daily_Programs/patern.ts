@@ -30,3 +30,16 @@ function numbertriangle(rows:number){
     }
 }
 numbertriangle(9)
+
+function printLetterTriangle(rows: number): void {
+    let Alphabate = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    for (let i = 0; i < rows; i++) {
+        let line = '';
+        for (let j = 0; j <= i; j++) { 
+            // line += Alphabate[i + j];
+            line += String.fromCharCode(65 + i + j)
+        }
+        console.log(line);
+    }
+}
+printLetterTriangle(5);
