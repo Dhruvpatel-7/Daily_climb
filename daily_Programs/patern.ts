@@ -81,3 +81,20 @@ function printRightAlignedNumberTriangle(rows: number): void {
     }
 }
 printRightAlignedNumberTriangle(4);
+
+function printNumberDiamondTriangle(rows: number): void {
+    for (let i = 1; i <= rows; i++) {
+        let line = '';
+        for (let j = 0; j < rows - i; j++) {
+            line += ' ';
+        }
+        for (let j = i; j < 2 * i; j++) {
+            line += j;
+        }
+        for (let j = 2 * i - 2; j >= i; j--) {
+            line += j;
+        }
+        console.log(line);
+    }
+}
+printNumberDiamondTriangle(6);
