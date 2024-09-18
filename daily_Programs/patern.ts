@@ -66,3 +66,18 @@ function printnumber(rows: number){
     }
 }
 printnumber(5)
+
+function printRightAlignedNumberTriangle(rows: number): void {
+    for (let i = 1; i <= rows; i++) {
+        let line = '';
+
+        for (let j = 0; j < rows - i; j++) {
+            line += ' ';
+        }
+        for (let j = 1; j <= i; j++) {
+            line += j;
+        }
+        console.log(line);
+    }
+}
+printRightAlignedNumberTriangle(4);
