@@ -43,3 +43,15 @@ function printLetterTriangle(rows: number): void {
     }
 }
 printLetterTriangle(5);
+
+function printLetterTriangle1(rows: number): void {
+    const startChar = 'E'.charCodeAt(0);
+    for (let i = 0; i < rows; i++) { 
+        let line = '';
+        for (let j = 0; j <= i; j++) {
+            line += String.fromCharCode(startChar - i + j);
+        }
+        console.log(line);
+    }
+}
+printLetterTriangle1(5);
