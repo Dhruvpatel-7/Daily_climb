@@ -8,3 +8,14 @@ function printAsteriskPattern(rows: number, columns: number): void {
     }
 }
 printAsteriskPattern(4, 4);
+
+function triangle(rows:number){
+    for(let i = 1; i <= rows; i++){
+        let line = '';
+        for(let j = 1; j <= i; j++){
+            line += "*"
+        }
+        console.log(line);
+    }
+}
+triangle(4)
